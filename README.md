@@ -28,7 +28,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 ###Steps
 
-1. ####Download data 
+1. Download data 
 
   - Option 1 - Manual download from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, unzip to the run_analysis.R folder.
 
@@ -41,12 +41,12 @@ download.file(fileUrl,destfile="data/Dataset.zip")
 unzip(zipfile="data/Dataset.zip",exdir="data")
 ```
 
-2. ####Run run.analysis.R 
+2. Run run.analysis.R 
 ```R
 source('run_analysis.R')
 ```
 
-3. ####Output File
+3. Output File
 ```
 tidydata.txt
 ```

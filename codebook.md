@@ -56,13 +56,13 @@ date: "October 25, 2015"
 
 - ####Data Content: 
 
-+ #####Variables Summary:
++ Variables Summary:
 
 ```
 ##    Length     Class      Mode 
 ##        68 character character
 ```
-+ #####Variables Name:
++ Variables Name:
 
 ```
 ##  [1] "timeBodyAccelerometer-mean()-X"                
@@ -134,7 +134,7 @@ date: "October 25, 2015"
 ## [67] "subject"                                       
 ## [68] "activity"
 ```
-+ #####Activity Data
++ Activity Data
 
 ```
 ## 'data.frame':	2947 obs. of  1 variable:
@@ -145,7 +145,7 @@ date: "October 25, 2015"
 ## 'data.frame':	7352 obs. of  1 variable:
 ##  $ V1: int  5 5 5 5 5 5 5 5 5 5 ...
 ```
-+ #####Subject Data
++ Subject Data
 
 ```
 ## 'data.frame':	7352 obs. of  1 variable:
@@ -156,7 +156,7 @@ date: "October 25, 2015"
 ## 'data.frame':	2947 obs. of  1 variable:
 ##  $ V1: int  2 2 2 2 2 2 2 2 2 2 ...
 ```
-+ #####Features Data
++ Features Data
 
 ```
 ## 'data.frame':	2947 obs. of  561 variables:
