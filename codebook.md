@@ -42,7 +42,8 @@ date: "October 25, 2015"
 ```
 
 
-- ####Activities: 
+- ####Activities:
+
 
 ```
 ##   V1                 V2
